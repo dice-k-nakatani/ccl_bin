@@ -6,7 +6,7 @@ ref: https://github.com/Clozure/ccl/issues/146
 
 Roswell's ccl_bin does not support ccl 12 now.
 
-So I host self build ccl12 on github.
+So I host self builded ccl 12 on github.
 
 
-You can install ccl12 with roswell modifying `roswell/lisp/locations.lisp`. Or some other hack.
+You can install ccl 12 with roswell, modifying `roswell/lisp/locations.lisp`. Or with some other hack.
