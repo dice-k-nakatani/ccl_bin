@@ -8,3 +8,5 @@ Roswell's ccl_bin does not support ccl 12 now.
 
 So I host self build ccl12 on github.
 
+
+You can install ccl12 with roswell modifying `roswell/lisp/locations.lisp`. Or some other hack.
